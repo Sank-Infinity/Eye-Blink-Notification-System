@@ -1,5 +1,5 @@
 # Eye-Blink-Notification-System
-This system gives reminder notification of blink the eyes for every 10min on desktop, To those who are working continuously on screen.
+This system gives reminder notification of blink the eyes for every 10min on desktop, for those who are working continuously on screen.
 
 # How to use 
 First of all run this program using the terminal while working on laptop or desktop
