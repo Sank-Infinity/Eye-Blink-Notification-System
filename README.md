@@ -8,7 +8,8 @@ Make sure in your device python should be installed.
 
 how to run:  open command prompt.
              Set path where your program is present and run pyhton file.
-             for eg. 
+             
+             for example : 
              
                      cd Desktop/
                      
