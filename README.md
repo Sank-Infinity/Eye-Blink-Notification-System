@@ -6,7 +6,9 @@ First of all run this program using the terminal while working on laptop or desk
 
 Make sure in your device python should be installed.
 
-how to run:  open command prompt.
+how to run:  Right click on program,
+             Or
+             open command prompt.
              Set path where your program is present and run pyhton file.
              
              for example : 
