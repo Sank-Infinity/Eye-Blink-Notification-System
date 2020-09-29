@@ -9,7 +9,7 @@ Make sure in your device python should be installed.
 how to run:  Right click on program,
              Or
              open command prompt.
-             Set path where your program is present and run pyhton file.
+             Set path where your program will be installed and run pyhton file.
              
              for example : 
              
