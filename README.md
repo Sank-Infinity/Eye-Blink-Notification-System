@@ -11,9 +11,12 @@ how to run:  open command prompt.
              
              for example : 
              
-                     cd Desktop/
-                     
-                     python filename.py 
+                    Microsoft Windows [Version 10.0.26381.2801]
+                    (c) 2019 Microsoft Corporation. All rights reserved.
+
+                    C:\Users\Sank> cd Desktop/
+             
+                    C:\Users\Sank> python filename.py 
 
 Program will start giving notification on computer screen after every 10 minutes .
 
