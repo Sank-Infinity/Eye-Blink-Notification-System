@@ -1,5 +1,5 @@
 # Eye-Blink-Notification-System
-This system gives reminder notification of blink the eyes for every 10min on desktop, for those who are working continuously on screen.
+This is an amazing system which gives reminder notification of blink the eyes for every 10min on desktop, for those who are working continuously on screen.
 
 # How to use 
 First of all run this program using the terminal while working on laptop or desktop.
@@ -9,7 +9,7 @@ Make sure in your device python should be installed.
 how to run:  Right click on program,
              Or
              open command prompt.
-             Set path where your program will be installed and run pyhton file.
+             Set path where your program will be installed and run python file.
              
              for example : 
              
