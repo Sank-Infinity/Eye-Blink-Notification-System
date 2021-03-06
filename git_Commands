@@ -1,0 +1,7 @@
+git init     	   : 		To create new repository.
+git clone    	   : 		To pull existing project from github.
+git status   	   :		To check what is status of project? or what changes have been done so far.
+git branch   	   :		To check branchs.
+git diff     	   :  		It shows where actual changes have been done.
+git add file_name  :        To confirm changes or to change from unstaged state to staged state.
+git log            :        To show logs
